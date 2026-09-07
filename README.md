@@ -7,9 +7,10 @@ I use software as a tool to explore intelligent systems, human behavior, physica
 ## What I'm Currently Working on
 
 - Building a user-facing AI chatbot as a Software Engineering Intern at Philo Homes. Details are limited because it is a company project.
-- Building a foundation in machine learning through mathematically focused study and team projects.
-- Exploring embodied AI and how intelligent systems interact with human perception and the physical world.
-- Exploring how people use and respond to intelligent systems.
+- Building websites for Daxin Certified Public Accountants' Guangzhou branch and Daxin Sui'an Tax Accountants (Guangzhou).
+- Continuing to develop the GlyphTempo website and Calmanta software, while preparing Calmanta, GlyphTempo, and SocketSight for release through [Gamma Accelerator](https://gammaacc.com/), where I serve as the legal representative.
+- Writing a research paper on why keyboard-based text entry may remain important in a future with multiple input methods. The project looks beyond raw input speed and focuses on privacy, social acceptability, user habits, trust, and the trade-offs that shape people's choices.
+- Deepening my foundations in AI and software engineering.
 
 ## Selected Projects
 
