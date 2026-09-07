@@ -2,25 +2,26 @@
 
 **UC San Diego student | Exploring embodied AI, cognitive science, HCI, and energy systems**
 
-I am exploring intelligent systems, human behavior, physical environments, and real-world problems. I enjoy turning these questions into practical projects and prototypes.
+I am exploring intelligent systems, human behavior, physical environments, and real-world problems. I use software as a tool to turn these questions into practical projects and prototypes.
 
 ## What I'm Currently Working on
 
-- Have full ownership of the end-to-end design and development of a user-facing AI chatbot. Additional project details are confidential.
-- Building websites for WUYIGE (Daxin) Guangzhou Branch and DaxinSuian.
-- Continuing to develop the Calmanta, SocketSight software and GlyphTempo website, while preparing them for release through my company, [Gamma Accelerator](https://gammaacc.com/)
-- Developing a research paper ("Intro to ML" coursework) that examines why keyboard-based text entry may remain important in the future. It provides the research motivation for GlyphTempo.
+- Taking full ownership of the end-to-end design and development of a user-facing AI chatbot at Philo Homes. Additional details are confidential.
+- Building commissioned websites for WUYIGE (DAXIN) Guangzhou Branch and DaxinSuian.
+- Continuing to develop Calmanta, GlyphTempo, and SocketSight and prepare them for release.
+- Developing a research paper from my Introduction to Machine Learning coursework. Preparing it for publication is part of the course assessment. The paper examines why keyboard-based text entry may remain important as input methods evolve, and provides the research motivation for GlyphTempo.
+- Developing GlyphTempo from a typing-training academic proposal created at the JHU portion of the Shorelight Summer AI Institute. Planning experiments for fall to evaluate the product's ideas and effects.
 - Deepening my foundations in AI and software engineering.
 
 ## Selected Projects
 
 ### [Calmanta](https://gammaacc.com/)
 
-An approval-first AI companion for reviewing and drafting online replies, with risk classification, local data storage, and human approval before content is sent or posted.
+An approval-first AI companion for reviewing and drafting online replies, with risk classification, local data storage, and human approval before content is sent or posted. Developed through Gamma Accelerator.
 
 ### [GlyphTempo](https://glyphtempo.com/)
 
-An adaptive English QWERTY typing assessment and practice research prototype. It records timing and correction behavior locally and adjusts practice based on evidence from the user's typing sessions. I am preparing experiments to evaluate the product’s ideas and effects.
+An adaptive English QWERTY typing assessment and practice research prototype. It grew from a typing-training proposal at Shorelight's JHU program and records timing and correction behavior locally to guide practice. Developed through Gamma Accelerator.
 
 ### [SocketSight](https://github.com/jimmy181211/connection-watcher)
 
@@ -29,8 +30,6 @@ A Windows tool for rule-based local TCP connection monitoring, with configurable
 ### [DataStructureVisualiser](https://github.com/jimmy181211/DataStructureVisualiser)
 
 An interactive Python/Tkinter tool for visualizing core data structures, including stacks, queues, hash maps, max-heaps, red-black trees, and AVL trees.
-
-Main product website: [gammaacc.com](https://gammaacc.com/)
 
 ## Other Projects
 
@@ -44,11 +43,11 @@ Main product website: [gammaacc.com](https://gammaacc.com/)
 
 ## Experience & Academic Highlights
 
-- **Philo Homes** (June 2026 - present) abovementiond.
-- **Shorelight Summer AI Institute** (Jul 6 – Aug 1, 2026): Completed a four-week Shorelight AI program at UCB and JHU, where faculty presented their own research such as embodied AI and energy systems, alongside inspiring guest lectures. I helped lead an AI chatbot capstone at Berkeley and a typing-training academic proposal at JHU which shaped GlyphTempo’s functional architecture and led to its development.
-- **Machine Learning Course, Path Academics**(Feb 2026 - June 2026): Completed a mathematically rigorous course "Intro to ML" taught by an MIT tenured professor. Helped led a team project on email spam classification. Developing a paper about "keyboard importance in the future". The experience strengthened my understanding of ML foundations. 
-- **COGS 108: Introduction to Data Science** (Jan 2026 - Feb 2026): Co-led a final group project that received full marks.
-- **Huaxin Guangdong Bank & Daxin CPA HR Dept.** (June 2025 - Aug 2025): Gained experience with HR operations, business operations, and organizational workflows.
+- **Philo Homes:** Taking full ownership of the end-to-end design and development of a user-facing AI chatbot. Details are limited because it is a company project.
+- **Shorelight Summer AI Institute (Jul 6 – Aug 1, 2026):** Helped lead an AI chatbot capstone at Berkeley and a typing-training academic proposal at JHU. The proposal shaped GlyphTempo's functional architecture. Faculty presented their own research in embodied AI, robotics, cognitive science, and energy systems, alongside guest lectures.
+- **Machine Learning Coursework, Path Academics (Feb 2026 – Jun 2026):** Completed a mathematically rigorous Introduction to Machine Learning course, led a team project on email spam classification, and developed a research paper from the coursework as part of the course assessment.
+- **COGS 108: Introduction to Data Science:** Co-led a final group project that received full marks.
+- **Huaxin Guangdong Bank & Daxin CPA HR Department:** Gained experience with business operations and organizational workflows.
 
 ## Technical Skills
 
