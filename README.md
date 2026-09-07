@@ -9,7 +9,7 @@ I am interested in how intelligent systems interact with people and the physical
 - Taking full ownership of the end-to-end design and development of a user-facing AI chatbot at Philo Homes. Additional details are confidential.
 - Building commissioned websites for WUYIGE (DAXIN) Guangzhou Branch and DaxinSuian.
 - Continuing to develop Calmanta, GlyphTempo, and SocketSight and prepare them for release via my company Gamma Acc.
-- Developing a research paper from "Intro to ML" coursework. Preparing it for publication is part of the course assessment. The paper examines why keyboard-based text entry may remain important as input methods evolve, and provides the research motivation for GlyphTempo.
+- Developing a series of research papers. Preparing it for publication is part of the "Intro to ML" course assessment. The papers examine why keyboard-based text entry may remain important as input methods evolve, which provides the research motivation for GlyphTempo.
 - Deepening my foundations in AI and software engineering.
 
 ## Selected Projects
