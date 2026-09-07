@@ -57,7 +57,7 @@ Python, Java, JavaScript/TypeScript, C#, NASM x86 Assembly
 
 ### Tools and areas
 
-Object-oriented programming, data structures and algorithms, React, Android Studio, Git/GitHub, machine learning fundamentals, unit testing, model evaluation, and software prototyping
+Object-oriented programming, data structures and algorithms, React, Django, node.js, Android Studio, Git/GitHub, machine learning, unit testing, model evaluation, and software prototyping
 
 ## Contact
 
