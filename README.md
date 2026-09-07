@@ -45,7 +45,7 @@ An interactive Python/Tkinter tool for visualizing core data structures, includi
 
 - **Philo Homes:** Taking full ownership of the end-to-end design and development of a user-facing AI chatbot.
 - **Shorelight Summer AI Institute (Jul 6 – Aug 1, 2026):** Helped lead an AI chatbot capstone at the UCB program and a typing-training academic proposal at the JHU program. The proposal shaped GlyphTempo's functional architecture and lead to its development. Faculty presented their own research in embodied AI, robotics, cognitive science, and energy systems, alongside inspiring guest lectures.
-- **Machine Learning Coursework, Path Academics (Feb 2026 – Jun 2026):** Completed a mathematically rigorous Introduction to Machine Learning course, led a team project on email spam classification, and developed a research paper from the coursework as part of the course assessment. 
+- **Machine Learning Coursework, Path Academics (Feb 2026 – Jun 2026):** Completed a mathematically rigorous course "Intro to ML" by an MIT tenured professor, led a team project on email spam classification, and developed a research paper as part of the course assessment. 
 - **COGS 108: Introduction to Data Science:** Co-led a final group project that received full marks.
 - **Huaxin Guangdong Bank & Daxin CPA HR Department:** Gained experience with business operations and organizational workflows.
 
