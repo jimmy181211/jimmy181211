@@ -20,7 +20,7 @@
 
 ### [GlyphTempo](https://glyphtempo.com/)
 
-一个用于 English QWERTY 键盘的自适应打字评估与练习研究原型。它源自 Shorelight JHU 项目中的打字学习者表征方案，并在本地记录 timing 和 correction behavior。目前正在计划实验，以评估产品的思路和实际效果。
+一个用于 English QWERTY 键盘的自适应打字评估与练习研究原型。它源自 Shorelight JHU 项目中的打字学习者表征方案。目前正在计划实验，以评估产品的思路和实际效果。
 
 ### [SocketSight](https://github.com/jimmy181211/connection-watcher)
 
