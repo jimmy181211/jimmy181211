@@ -20,7 +20,7 @@ An approval-first AI companion for reviewing and drafting online replies, with r
 
 ### [GlyphTempo](https://glyphtempo.com/)
 
-An adaptive English QWERTY typing assessment and practice research prototype. It grew from a typing-training proposal at Shorelight's JHU program. I am planning experiments to test the product's ideas and effects.
+An adaptive English QWERTY typing assessment and practice research prototype. It grew from a typing-training proposal at Shorelight's JHU program. Planning experiments to evaluate the product's ideas and effects.
 ### [SocketSight](https://github.com/jimmy181211/connection-watcher)
 
 A Windows tool for rule-based local TCP connection monitoring, with configurable checks, process context, CSV logging, and user-controlled feedback.
@@ -43,15 +43,15 @@ An interactive Python/Tkinter tool for visualizing core data structures, includi
 
 - **Philo Homes** (June 2026 - present): Taking full ownership of the end-to-end design and development of a user-facing AI chatbot.
 - **Shorelight Summer AI Institute** (Jul 6 – Aug 1, 2026): Helped lead an AI chatbot capstone at the UCB program and a typing-training academic proposal at the JHU program. The proposal shaped GlyphTempo's functional architecture and led to its development. Faculty presented their own research in embodied AI, robotics, cognitive science, and energy systems, alongside inspiring guest lectures.
-- **Machine Learning Coursework, Path Academics** (Feb 2026 – Jun 2026): Completed a mathematically rigorous course "Intro to ML" by an MIT tenured professor, led a team project on email spam classification. I am currently developing a research paper as part of the course assessment.
-- **COGS 108: Introduction to Data Science** (Jan 2026 - March 2026): Co-led a final group project that received full marks.
-- **Huaxin Guangdong Bank & Daxin CPA HR Department** （June 2025 - Aug 2025): Gained experience with business operations and organizational workflows.
+- **Machine Learning Coursework, Path Academics** (Feb– Jun, 2026): Completed a mathematically rigorous course "Intro to ML" by an MIT tenured professor, led a team project on email spam classification. I am currently developing a research paper as part of the course assessment.
+- **COGS 108: Introduction to Data Science** (Jan- March, 2026): Co-led a final group project that received full marks.
+- **Huaxin Guangdong Bank & Daxin CPA HR Department** （June- Aug, 2025): Gained experience with business operations and organizational workflows.
 
 ## Technical Skills
 
 ### Languages
 
-Python, Java, JavaScript/TypeScript, C#, NASM x86 Assembly
+Python, Java, JavaScript/TypeScript, C/C++, C#, NASM x86 Assembly
 
 ### Tools and areas
 
