@@ -9,7 +9,7 @@ I use software as a tool to explore intelligent systems, human behavior, physica
 - Building a user-facing AI chatbot as a Software Engineering Intern at Philo Homes. Details are limited because it is a company project.
 - Building websites for Daxin Certified Public Accountants' Guangzhou branch and Daxin Sui'an Tax Accountants (Guangzhou).
 - Continuing to develop the GlyphTempo website and Calmanta software, while preparing Calmanta, GlyphTempo, and SocketSight for release through [Gamma Accelerator](https://gammaacc.com/), where I serve as the legal representative.
-- Writing a research paper on why keyboard-based text entry may remain important in a future with multiple input methods. The project looks beyond raw input speed and focuses on privacy, social acceptability, user habits, trust, and the trade-offs that shape people's choices.
+- Developing a research paper that grew out of my Introduction to Machine Learning coursework. Preparing the paper for publication is one of the course's assessment requirements. The paper examines why keyboard-based text entry may remain important in a future with multiple input methods, looking beyond raw speed to privacy, social acceptability, user habits, trust, and context. It also provides the research motivation for GlyphTempo, my typing assessment and training website.
 - Deepening my foundations in AI and software engineering.
 
 ## Selected Projects
