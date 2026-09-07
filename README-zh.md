@@ -57,7 +57,7 @@ Python, Java, JavaScript/TypeScript, C#, NASM x86 Assembly
 
 ### 工具与方向
 
-面向对象编程、数据结构与算法、React、Android Studio、Git/GitHub、机器学习基础、单元测试、模型评估和软件原型开发
+面向对象编程、数据结构与算法、React、Django、node.js、Android Studio、Git/GitHub、机器学习、单元测试、模型评估和软件原型开发
 
 ## 联系方式
 
